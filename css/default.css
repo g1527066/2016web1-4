@@ -1,22 +1,13 @@
-
-<html> 
-<head> 
-<title>css</title> 
 @charset"UTF-8";
+
 h1{font-size:1.75em;}
- 
-<style type="text/css"> 
-p{color:blue;} 
-</style> 
 
 h1 span{color:"d0e35b";}
-#lead{
- border-top:#6fbb9a 1px dotted;
- text align:center;}
+
+#lead{ border-top:#6fbb9a 1px dotted;text align:center;}
  
 
-<p style="color:red">赤色</p>
 
 
-</head> 
-</html> 
+
+
