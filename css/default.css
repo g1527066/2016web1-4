@@ -2,7 +2,9 @@
 
 h1{font-size:1.75em;}
 
-h1 span{color:"d0e35b";}
+h1 span{
+ color:#d0e35b;
+}
 
 #lead{ border-top:#6fbb9a 1px dotted;text align:center;}
  
