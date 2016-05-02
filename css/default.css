@@ -1,5 +1,14 @@
 @charset"UTF-8";
 
+li{
+ font-size:0.8em;
+ color:#333333;
+}
+address{
+ font-size:20em;
+ font-style:italic;
+}
+
 
 
 h1 span{
